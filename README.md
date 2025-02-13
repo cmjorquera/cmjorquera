@@ -82,13 +82,13 @@ Estoy abierto a nuevas oportunidades y desafíos donde pueda aplicar y expandir 
 
   <!-- Rust -->
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40" alt="Rust logo" />
   </a>
   <img width="12" />
 
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
   </a>
   <img width="12" />
 
@@ -100,13 +100,13 @@ Estoy abierto a nuevas oportunidades y desafíos donde pueda aplicar y expandir 
 
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40" alt="Django logo" />
   </a>
   <img width="12" />
 
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="DotNet logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="40" alt="DotNet logo" />
   </a>
   <img width="12" />
 
@@ -118,7 +118,7 @@ Estoy abierto a nuevas oportunidades y desafíos donde pueda aplicar y expandir 
 
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
   </a>
   <img width="12" />
 
