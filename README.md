@@ -12,9 +12,9 @@
 
 ###
 
-<div align="center">
+###<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+###</div>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Cristian jorquera</h3>
+<h3 align="left">👩‍💻  Cristian jorquera Gonzalez</h3>
 
 ###
 
