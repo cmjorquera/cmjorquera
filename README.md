@@ -28,7 +28,7 @@
 
 ###
 
-<h1 align="center">Bienvenidos 👋</h1>
+<h1 align="center">Cristian Jorquera</h1>
 
 ###
 
