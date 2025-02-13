@@ -1,11 +1,11 @@
-
 <div align="center">
- <img src="https://qa.seduc.cl/jorquera/imagenes/foto_perfil_jorquera.jpg" 
+  <img src="https://qa.seduc.cl/jorquera/imagenes/foto_perfil_jorquera.jpg" 
        alt="Foto de perfil de Cristian Jorquera" 
        width="150" height="150" 
-       style="border-radius: 50%; border: 3px solid white; box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);" />
+       style="border-radius: 50%;" />
   <br><br>
 </div>
+
 
 
 ###
