@@ -118,7 +118,7 @@ Estoy abierto a nuevas oportunidades y desafíos donde pueda aplicar y expandir 
 
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+    <img src="https://qa.seduc.cl/jorquera/imagenes/logo_aws.png" height="40" alt="AWS logo" />
   </a>
   <img width="12" />
 
