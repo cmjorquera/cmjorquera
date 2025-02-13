@@ -88,7 +88,7 @@ Estoy abierto a nuevas oportunidades y desafíos donde pueda aplicar y expandir 
 
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
+    <img src="https://qa.seduc.cl/jorquera/imagenes/logo_laravel.png" height="40" alt="laravel logo" />
   </a>
   <img width="12" />
 
@@ -125,6 +125,11 @@ Estoy abierto a nuevas oportunidades y desafíos donde pueda aplicar y expandir 
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.python.com/" target="_blank">
+    <img src="https://qa.seduc.cl/jorquera/imagenes/logo_python.png" height="40" alt="python logo" />
   </a>
 </div>
 
