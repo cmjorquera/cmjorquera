@@ -127,7 +127,7 @@ Estoy abierto a nuevas oportunidades y desafíos donde pueda aplicar y expandir 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   </a>
 
-  <!-- Docker -->
+  <!-- Python -->
   <a href="https://www.python.com/" target="_blank">
     <img src="https://qa.seduc.cl/jorquera/imagenes/logo_python.png" height="40" alt="python logo" />
   </a>
