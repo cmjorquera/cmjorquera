@@ -1,23 +1,5 @@
 <div align="center">
-  <style>
-    .profile-img {
-      border-radius: 50%; /* Hace que la imagen sea circular */
-      border: 3px solid white; /* Agrega un borde blanco elegante */
-      box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Sombra suave */
-      height: 150px; /* Tamaño */
-      width: 150px; /* Mantiene la proporción */
-      object-fit: cover; /* Asegura que la imagen llene el círculo */
-      animation: bounce 2s infinite alternate; /* Efecto de movimiento */
-    }
-
-    @keyframes bounce {
-      0% { transform: translateY(0); }
-      100% { transform: translateY(-10px); }
-    }
-  </style>
-
-  <!-- Imagen con animación y efecto circular -->
-  <img class="profile-img" src="https://qa.seduc.cl/jorquera/imagenes/foto_perfil_jorquera.jpg" alt="Foto de perfil de Cristian Jorquera" />
+<img  height="150" src="https://qa.seduc.cl/jorquera/imagenes/foto_perfil_jorquera.jpg" alt="Foto de perfil de Cristian Jorquera" />  
 
   <br><br>
 </div>
